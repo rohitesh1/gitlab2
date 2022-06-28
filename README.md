@@ -1,4 +1,4 @@
-# LabCoat for GitLab
+# LabCoat 1 for GitLab
 
 [![pipeline status](https://gitlab.com/Commit451/LabCoat/badges/master/pipeline.svg)](https://gitlab.com/Commit451/LabCoat/commits/master) [![Discord](https://img.shields.io/discord/304078613114781696.svg)](https://discord.gg/SDxsaKE)
 
